@@ -1,5 +1,5 @@
 #!/bin/bash
-GIT_SKM_REPO=https://github.com/splashkit/skm.git
+GIT_SKM_REPO=https://github.com/zbrydon/skm-test.git
 
 HOME_PATH=~
 INSTALL_PATH="${HOME_PATH}/.splashkit"
